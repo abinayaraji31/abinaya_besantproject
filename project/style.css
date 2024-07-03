@@ -1,0 +1,22 @@
+
+
+div.static{
+  position: static;
+  left: 30px;
+  border: 3px solid #070700;
+  background-color: #100000;
+  color: rgb(255, 255, 255);
+  font-family: "cursive" , Lucida Handwriting;
+}
+@media only screen and (min-width: 600px) {
+  .navbar {
+   height: 100px !important; 
+   position: sticky;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .navbar {
+   height: 100px !important; 
+   position: sticky;
+ } 
+}
